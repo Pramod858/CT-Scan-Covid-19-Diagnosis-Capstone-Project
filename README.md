@@ -1,10 +1,10 @@
-# CT Scan Covid-19 Diagnosis Capstone Project
+# CT Scan Image Classification
 
-This repository contains the code and resources for the CT Scan Covid-19 Diagnosis Capstone Project. The project focuses on building a Convolutional Neural Network (CNN) model to diagnose Covid-19 from CT scan images.
+This repository contains the code and resources for the CT Scan Image Classification Project. The project focuses on building a Convolutional Neural Network (CNN) model to diagnose Covid-19 from CT scan images.
 
 ## Introduction
 
-The **CT-Scan COVID-19 Diagnosis Capstone Project** is centered around utilizing advanced deep learning techniques to diagnose COVID-19 infections through the analysis of CT scan images. The primary objective of this project is to provide a reliable, efficient, and accurate tool to assist medical professionals in diagnosing COVID-19 cases, particularly in scenarios where traditional testing may be limited.
+The **CT Scan Image Classification** is centered around utilizing advanced deep learning techniques to diagnose COVID-19 infections through the analysis of CT scan images. The primary objective of this project is to provide a reliable, efficient, and accurate tool to assist medical professionals in diagnosing COVID-19 cases, particularly in scenarios where traditional testing may be limited.
 
 ## Dataset
 
@@ -14,8 +14,8 @@ The [dataset](Data) utilized in this project consists of 2482 CT scan images col
 
 https://github.com/Pramod858/CT-Scan-Covid-19-Diagnosis-Capstone-Project/assets/80105491/826fda57-24fd-4c6b-b3b4-e42575ac4c6c
 
-1. Open the Google Colab notebook ['CT_Scan_Covid_19_Diagnosis_Capstone_Project.ipynb'](Notebook/CT_Scan_Covid_19_Diagnosis_Capstone_Project.ipynb) by clicking on the provided link:
-   [Open in Colab](https://colab.research.google.com/github/Pramod858/CT-Scan-Covid-19-Diagnosis-Capstone-Project/blob/main/Notebook/CT_Scan_Covid_19_Diagnosis_Capstone_Project.ipynb)
+1. Open the Google Colab notebook ['CT_Scan_Covid_19_Diagnosis_Capstone_Project.ipynb'](Notebook/CT_Scan_Image_Classification.ipynb) by clicking on the provided link:
+   [Open in Colab](https://colab.research.google.com/github/Pramod858/CT-Scan-Image-Classification/blob/main/Notebook/CT_Scan_Image_Classification.ipynb)
 
 2. Follow the instructions in the notebook to load the data, preprocess it, construct and train the CNN model, and assess the model's performance.
 
@@ -44,7 +44,7 @@ Here is the [link](https://drive.google.com/drive/folders/1IoqB6hyF-Kf-nDxw55jcf
 
 ## Solution Links
 
-1. Solution Code [link](Notebook/CT_Scan_Covid_19_Diagnosis_Capstone_Project.ipynb)
+1. Solution Code [link](Notebook/CT_Scan_Image_Classification.ipynb)
 2. A pdf file which is a document containing screenshots of the application [link](PDF/Screenshots.pdf).
-3. A pdf file which is a document where you explain how you approached the problem statement [link](https://github.com/Pramod858/CT-Scan-Covid-19-Diagnosis-Capstone-Project/blob/main/PDF/CT-%20Scan%20Covid-19%20Diagnosis%20Capstone%20Project.pdf).   
+3. A pdf file which is a document where you explain how you approached the problem statement [link](https://github.com/Pramod858/CT-Scan-Image-Classification/blob/main/PDF/CT%20Scan%20Image%20Classification%20Problem%20Statement.pdf).   
 
