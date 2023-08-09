@@ -12,6 +12,8 @@ The [dataset](Data) utilized in this project consists of 2482 CT scan images col
 
 ## How to Run on Google Colab
 
+[![Project Demo](Images/Thumbnail.png)](Demo/Demo.mp4)
+
 1. Open the Google Colab notebook ['CT_Scan_Covid_19_Diagnosis_Capstone_Project.ipynb'](Notebook/CT_Scan_Covid_19_Diagnosis_Capstone_Project.ipynb) by clicking on the provided link:
    [Open in Colab](https://colab.research.google.com/github/Pramod858/CT-Scan-Covid-19-Diagnosis-Capstone-Project/blob/main/Notebook/CT_Scan_Covid_19_Diagnosis_Capstone_Project.ipynb)
 
