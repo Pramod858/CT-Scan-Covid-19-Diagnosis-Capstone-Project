@@ -18,7 +18,7 @@ https://github.com/Pramod858/CT-Scan-Image-Classification/assets/80105491/faf56a
 
 
 
-1. Open the Google Colab notebook ['CT_Scan_Covid_19_Diagnosis_Capstone_Project.ipynb'](Notebook/CT_Scan_Image_Classification.ipynb) by clicking on the provided link:
+1. Open the Google Colab notebook ['CT_Scan_Image_Classification.ipynb'](Notebook/CT_Scan_Image_Classification.ipynb) by clicking on the provided link:
    [Open in Colab](https://colab.research.google.com/github/Pramod858/CT-Scan-Image-Classification/blob/main/Notebook/CT_Scan_Image_Classification.ipynb)
 
 2. Follow the instructions in the notebook to load the data, preprocess it, construct and train the CNN model, and assess the model's performance.
