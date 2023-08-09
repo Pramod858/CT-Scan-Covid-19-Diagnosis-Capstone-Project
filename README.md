@@ -12,7 +12,11 @@ The [dataset](Data) utilized in this project consists of 2482 CT scan images col
 
 ## How to Run on Google Colab
 
-https://github.com/Pramod858/CT-Scan-Covid-19-Diagnosis-Capstone-Project/assets/80105491/826fda57-24fd-4c6b-b3b4-e42575ac4c6c
+
+
+https://github.com/Pramod858/CT-Scan-Image-Classification/assets/80105491/faf56aa1-d763-40f7-b284-3c09f70e2619
+
+
 
 1. Open the Google Colab notebook ['CT_Scan_Covid_19_Diagnosis_Capstone_Project.ipynb'](Notebook/CT_Scan_Image_Classification.ipynb) by clicking on the provided link:
    [Open in Colab](https://colab.research.google.com/github/Pramod858/CT-Scan-Image-Classification/blob/main/Notebook/CT_Scan_Image_Classification.ipynb)
