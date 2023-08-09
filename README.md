@@ -36,3 +36,7 @@ The following table showcases the performance metrics of the trained models:
 | Fine-Tuned Model| 0.973154 | 0.986072  | 0.959350| 0.972527 | 0.998032      |
 
 These metrics provide insights into the effectiveness of the models in diagnosing COVID-19 cases from CT scan images.
+
+## Extra 
+Here is the [link](https://drive.google.com/drive/folders/1IoqB6hyF-Kf-nDxw55jcfTEpZhF12rkW?usp=sharing) of `Saved Model` and `Saved Plots`
+
