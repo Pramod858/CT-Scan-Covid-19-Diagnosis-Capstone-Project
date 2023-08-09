@@ -42,3 +42,9 @@ These metrics provide insights into the effectiveness of the models in diagnosin
 ## Extra 
 Here is the [link](https://drive.google.com/drive/folders/1IoqB6hyF-Kf-nDxw55jcfTEpZhF12rkW?usp=sharing) of `Saved Model` and `Saved Plots`
 
+## Solution Links
+
+1. Solution Code [link](Notebook/CT_Scan_Covid_19_Diagnosis_Capstone_Project.ipynb)
+2. A pdf file which is a document containing screenshots of the application [link](PDF/Screenshots.pdf).
+3. A pdf file which is a document where you explain how you approached the problem statement [link](https://github.com/Pramod858/CT-Scan-Covid-19-Diagnosis-Capstone-Project/blob/main/PDF/CT-%20Scan%20Covid-19%20Diagnosis%20Capstone%20Project.pdf).   
+
